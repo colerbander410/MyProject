@@ -1,0 +1,48 @@
+2025-09-17 14:35:38,776 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,515x277,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-09-17 14:37:46,843 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-09-17 14:38:12,547 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-09-17 14:38:29,271 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-09-17 14:39:37,622 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:40:29,341 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:40:29,927 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:40:33,539 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:40:33,958 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:40:45,890 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:40:47,123 [INFO] Gpio:278 - dependency for GPIO [RCC, SYS, USART1]
+2025-09-17 14:41:01,549 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 928027152 Bytes (1055916032)
+2025-09-17 14:41:02,855 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 961777784 Bytes (1055916032)
+2025-09-17 14:41:05,100 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 995332216 Bytes (1055916032)
+2025-09-17 14:41:05,408 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-09-17 14:41:05,408 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2025-09-17 14:41:05,408 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8F1
+2025-09-17 14:41:05,408 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-09-17 14:41:05,408 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-09-17 14:41:05,408 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-09-17 14:41:05,410 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-09-17 14:41:05,471 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\MXTmpFiles\license.tmp_save
+2025-09-17 14:41:05,619 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\MXTmpFiles\license.tmp
+2025-09-17 14:41:05,648 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\MXTmpFiles\gpio.tmp_save
+2025-09-17 14:41:05,723 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\MXTmpFiles\gpio.tmp
+2025-09-17 14:41:05,831 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Src\stm32f1xx_it.c_save
+2025-09-17 14:41:05,984 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Src\stm32f1xx_it.c
+2025-09-17 14:41:05,992 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Inc\stm32f1xx_it.h_save
+2025-09-17 14:41:06,045 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Inc\stm32f1xx_it.h
+2025-09-17 14:41:06,060 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-17 14:41:06,163 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Src\stm32f1xx_hal_msp.c
+2025-09-17 14:41:06,169 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\MXTmpFiles\system.tmp_save
+2025-09-17 14:41:06,217 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\MXTmpFiles\system.tmp
+2025-09-17 14:41:06,232 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-17 14:41:06,287 [INFO] CodeEngine:345 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-17 14:41:06,317 [INFO] ApiDbMcu:532 - Load IP Config File for TIM4
+2025-09-17 14:41:06,318 [WARN] IPConfigManager:3811 - IP not found : TIM
+2025-09-17 14:41:06,319 [WARN] CodeGenerator:4259 - IP not found : null
+2025-09-17 14:41:06,327 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Inc\main.h_save
+2025-09-17 14:41:06,399 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Inc\main.h
+2025-09-17 14:41:06,408 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Src\main.c_save
+2025-09-17 14:41:06,495 [INFO] CodeEngine:289 - Generated code: C:\Users\user\Documents\CapstoneProject\Code\STM32\wsp1\Lora\Core\Src\main.c
+2025-09-17 14:41:06,883 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 216mS.
+2025-09-17 14:41:06,888 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-09-17 14:41:06,949 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-09-17 14:41:07,858 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 970mS.
+2025-09-17 14:41:07,860 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2025-09-17 14:41:07,862 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
